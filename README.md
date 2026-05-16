@@ -1,5 +1,7 @@
 # Pixel Painter
 
+[painter.png]
+
 A modern, interactive pixel-based drawing application built with vanilla JavaScript, HTML5, and CSS3. Create beautiful pixel art with an intuitive and responsive user interface.
 
 ## 🎨 Features

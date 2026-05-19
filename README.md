@@ -1,5 +1,7 @@
 # Pixel Painter
 
+[![Website](https://img.shields.io/badge/Website-Visit_Live_Site-orange?style=for-the-badge&logo=firefox&logoColor=white)](https://muhammad-asif10.github.io/Etch-a-Sketch/)
+
 ![Preview](painter.png)
 
 A modern, interactive pixel-based drawing application built with vanilla JavaScript, HTML5, and CSS3. Create beautiful pixel art with an intuitive and responsive user interface.
